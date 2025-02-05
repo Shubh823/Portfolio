@@ -23,7 +23,7 @@ Welcome to my personal portfolio website! This site was built to showcase my ski
 
 You can view the live version of the portfolio here:
 
-[Live Demo](your-demo-link-here)
+[Live Demo](https://portfolio-nine-chi-26.vercel.app/)
 
 ## Setup and Installation
 
