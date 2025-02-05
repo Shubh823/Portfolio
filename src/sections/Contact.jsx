@@ -42,11 +42,11 @@ try {
     <section className='c-space my-20 ' id={"contact"}>
         <div className='relative min-h-screen flex items-center justify-center flex-col'>
             <img src="/assets/terminal.png"  alt="terminal background"  className='absolute inset-0 min-h-screen'/> 
-            <div className='contact-container  '>
+            <div className='contact-container mt-12  '>
             <h3 className='head-text '>Let's Connect</h3>
             <p className='text-md text-white mt-3'>Whether your looking to build a new website improve your existing platform or bring a unique project to life im here to help.and write about any thing </p>
            
-            <form ref={formRef} onSubmit={handleSubmit} className=' flex flex-col space-y-7 '>
+            <form ref={formRef} onSubmit={handleSubmit} className='mt-5 flex flex-col space-y-7 '>
                 <label htmlFor="name" className='space-y-3'>
                     <span className='field-label'>Full Name</span>
                     <input type="text" name='name' value={form.name} onChange={handleChange} required className='field-input'  placeholder='Shubham Patil'/>
