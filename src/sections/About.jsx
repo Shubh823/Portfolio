@@ -20,7 +20,7 @@ const About = () => {
                     <img src="\assets\photo.jpg" alt="gird-1" className='w-full  h-fit object-contain rounded-md' />
                     <div>
                         <p className='grid-headtext'>Hi, I'm Shubham</p>
-                        <p className='grid-subtext'>w A passionate developer and designer, I blend creativity and code to craft engaging digital experiences. </p>
+                        <p className='grid-subtext'> A passionate developer and designer, I blend creativity and code to craft engaging digital experiences. </p>
                     </div>
                 </div>
             </div>

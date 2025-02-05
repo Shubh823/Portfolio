@@ -12,6 +12,10 @@ body {
   background: #010103;
   font-family: 'General Sans', sans-serif;
 }
+.back{
+  background-image: url('/assets/terminal.png');
+  background-position: center;
+}
 
 @layer utilities {
   .c-space {
